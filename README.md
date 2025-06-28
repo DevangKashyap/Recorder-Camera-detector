@@ -1,0 +1,2 @@
+"Fun with Python!
+I recently created a basic recording detection app that can identify when specific recording software (like OBS, Camtasia, Zoom, and Teams) is running on the system. Using PyQt5, I built a user-friendly interface with 'Start' and 'Stop Detection' buttons to control the detection process. The app checks active processes using the psutil library and updates the detection status in real-time and I'm looking forward to expanding it further with more feature
